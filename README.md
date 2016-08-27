@@ -5,4 +5,4 @@ Experimenting with Determinant Predicates from Real-Time Collision Detection
 	
 Book: http://realtimecollisiondetection.net/
 
-My blog: darrensweeney.net
+My blog: http://darrensweeney.net/
